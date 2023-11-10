@@ -5,7 +5,7 @@ from io import StringIO
 from Bio import Entrez
 
 # Provide your email address to NCBI
-Entrez.email = "rachelcasendra@gmail.com"
+Entrez.email = "yourmailId@gmail.com"
 
 # Fetch the sequence using the gene ID
 gene_id = "1277"

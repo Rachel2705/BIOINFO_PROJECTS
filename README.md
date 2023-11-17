@@ -1,6 +1,6 @@
 # BIOINFO_PROJECTS
 # FastQC Report for SRR26670608_1.fastq 
-[![Per base quality graph](link_to_image)](https://github.com/Rachel2705/BIOINFO_PROJECTS/blob/main/fastq_report/LINUX%20CODE.PNG)
+[![Per base quality graph](https://github.com/Rachel2705/BIOINFO_PROJECTS/blob/main/fastq_report/LINUX%20CODE.PNG)
 ## Overview
 
 This FastQC report provides a comprehensive analysis of the quality metrics for the sequencing data in the file SRR26670608_1.fastq. The analysis was conducted using FastQC version 0.11.9.

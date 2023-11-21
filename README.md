@@ -116,4 +116,4 @@ Check out [Rachel2705/BIOINFO_PROJECTS](https://github.com/Rachel2705/BIOINFO_PR
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-This version includes badges for Matplotlib and NumPy versions, emojis for visual appeal, and shields for dependencies. Feel free to further customize it based on your preferences!
+This version includes badges for Matplotlib and NumPy versions, Feel free to further customize it based on your preferences!

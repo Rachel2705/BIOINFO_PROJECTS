@@ -98,7 +98,6 @@ The entire figure is titled "Multiple Plots of Sine and Cosine Waves."
 
 ## 🖼️ Preview
 
-Insert an image or link to the generated plot here:
 
 ![Multiple Plots](https://github.com/Rachel2705/BIOINFO_PROJECTS/blob/main/data_visualization/multiple_plot.png)
 

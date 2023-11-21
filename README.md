@@ -96,8 +96,6 @@ The entire figure is titled "Multiple Plots of Sine and Cosine Waves."
 
 ## 🌈 Additional Features
 
-*Include information about any additional features or improvements you have added.*
-
 ## 🖼️ Preview
 
 Insert an image or link to the generated plot here:

@@ -98,10 +98,14 @@ The entire figure is titled "Multiple Plots of Sine and Cosine Waves."
 
 ## 🖼️ Preview
 
-
+- **Multiple Plots:**
 ![Multiple Plots](https://github.com/Rachel2705/BIOINFO_PROJECTS/blob/main/data_visualization/multiple_plot.png)
 
+- **single Plots:**
 ![single plot](https://github.com/Rachel2705/BIOINFO_PROJECTS/blob/main/data_visualization/plot.png)
+
+- **Violin plot:**
+![Violin plot](https://github.com/Rachel2705/BIOINFO_PROJECTS/blob/main/data_visualization/violin_plot.png)
 
 ## 🛠️ Customization
 
